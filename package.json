@@ -6,5 +6,8 @@
   "scripts": {
     "lint": "eslint",
     "lint:fix": "npm run lint -- --fix"
+  },
+  "devDependencies": {
+    "prettier": "3.1.1"
   }
 }
