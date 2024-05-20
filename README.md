@@ -51,16 +51,6 @@ Breadth-First Search (BFS) is an algorithm for traversing or searching tree or g
 
 ---
 
-Feel free to explore each chapter and contribute improvements or suggestions. If you encounter any issues or have questions, open an issue or submit a pull request.
-
-## Contributing
-
-1. Fork the project
-2. Create a new branch (`git checkout -b feature/algorithm`)
-3. Commit your changes (`git commit -m 'Add some algorithm'`)
-4. Push to the branch (`git push origin feature/algorithm`)
-5. Open a pull request
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
