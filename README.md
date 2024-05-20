@@ -1,8 +1,10 @@
 # Grokking Algorithms: Python to JavaScript
 
+![alt text](image-1.png)
+
 This repository contains implementations of the algorithms from the book "Grokking Algorithms" by Aditya Bhargava, translated from Python to JavaScript. Each chapter that includes code examples is covered with a brief explanation and a link to the corresponding JavaScript code.
 
-## Table of Contents
+## Table of Actually Contents
 
 - [Chapter 2: Binary Search](#chapter-2-binary-search)
 - [Chapter 3: Selection Sort](#chapter-3-selection-sort)
