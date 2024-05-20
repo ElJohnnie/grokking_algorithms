@@ -15,37 +15,37 @@ This repository contains implementations of the algorithms from the book "Grokki
 
 Binary search is an efficient technique for finding an item in a sorted list, halving the number of elements to check at each step.
 
-**JavaScript Code:** [Binary Search](link_to_js_code)
+**JavaScript Code:** [Binary Search](https://github.com/ElJohnnie/grokking_algorithms/blob/master/binarySearch.js)
 
 ## Chapter 3: Selection Sort
 
 This chapter covers selection sort, a simple sorting algorithm that works by repeatedly selecting the smallest element from the unsorted portion and moving it to the sorted portion.
 
-**JavaScript Code:** [Selection Sort](link_to_js_code)
+**JavaScript Code:** [Selection Sort](https://github.com/ElJohnnie/grokking_algorithms/blob/master/selectionSort.js)
 
 ## Chapter 4: Recursion
 
 Recursion is a fundamental concept in computer science, where a function calls itself to solve subproblems.
 
-**JavaScript Code:** [Recursion](link_to_js_code)
+**JavaScript Code:** [Recursion](https://github.com/ElJohnnie/grokking_algorithms/blob/master/recursivity.js)
 
 ## Chapter 5: Quicksort
 
 This chapter introduces the quicksort algorithm, one of the most efficient sorting algorithms in practice.
 
-**JavaScript Code:** [Quicksort](link_to_js_code)
+**JavaScript Code:** [Quicksort](https://github.com/ElJohnnie/grokking_algorithms/blob/master/quickSort.js)
 
 ## Chapter 6: Hash Tables
 
 Hash tables are efficient data structures for storing key-value pairs, allowing for quick insertions, deletions, and lookups.
 
-**JavaScript Code:** [Hash Tables](link_to_js_code)
+**JavaScript Code:** [Hash Tables](https://github.com/ElJohnnie/grokking_algorithms/blob/master/hashTable.js)
 
 ## Chapter 7: Breadth-First Search
 
 Breadth-First Search (BFS) is an algorithm for traversing or searching tree or graph data structures. It explores all nodes at the present depth level before moving on to nodes at the next depth level.
 
-**JavaScript Code:** [Breadth-First Search](link_to_js_code)
+**JavaScript Code:** [Breadth-First Search](https://github.com/ElJohnnie/grokking_algorithms/blob/master/breadhtFirstSearch.js)
 
 ---
 
